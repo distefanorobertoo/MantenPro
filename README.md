@@ -28,7 +28,7 @@ cceso avanzado a los datos.
 ## Primeros Pasos
 ### 1. Clonar el Repositorio
 
-git clone https://github.com/tuusuario/MantenPro
+git clone https://github.com/distefanorobertoo/MantenPro
 cd MantenPro
 
 ### 2. Instalar Dependencias
